@@ -1,0 +1,23 @@
+{
+  "Packages": [
+    {
+      "PackageName": "free_08Package_New",
+      "Branch": "free",
+      "PackageDescription": "1.0.0 ",
+      "PackageVersion": "11.3",
+      "PackageAuthor": "Admin",
+      "PackageCreatedOn": "2026-06-08T09:48:33Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "free",
+        "08Package",
+        "New"
+      ],
+      "Category": "Enterprise"
+    }
+  ],
+  "GitBranches": [
+    "free"
+  ]
+}
